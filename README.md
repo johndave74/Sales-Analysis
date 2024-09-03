@@ -3,7 +3,7 @@ This repository contains a Power BI Sales Analysis Dashboard designed to provide
 
 ![Sales Analysis Dashboard](https://github.com/user-attachments/assets/d01a49f0-ebd3-4814-92c3-c12833213f2b)
 
-Here are deep insights derived from the Sales Analysis Dashboard you shared:
+Here are deep insights derived from the Sales Analysis Dashboard:
 
 ### **Overall Sales Performance**
 - **Total Sales:** The company generated a total of $401.41K in sales. This indicates a strong sales performance over the analyzed period.
